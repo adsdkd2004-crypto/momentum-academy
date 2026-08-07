@@ -19,7 +19,7 @@
     @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
   }
   .card {
-    @apply rounded-xl2 bg-white dark:bg-navy-800 shadow-card border border-navy-100/70 dark:border-navy-700/60;
+    @apply rounded-2x1 bg-white dark:bg-navy-800 shadow-card border border-navy-100/70 dark:border-navy-700/60;
   }
   .btn-primary {
     @apply inline-flex items-center justify-center gap-2 rounded-full bg-navy-700 px-6 py-3 text-sm font-semibold text-white shadow-soft transition hover:bg-navy-800 active:scale-[0.98];
